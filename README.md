@@ -15,5 +15,5 @@ Geolocation works only on localhost or https
 
 API USED(Free to use) : https://api.open-meteo.com/v1/forecast?latitude=17.2&longitude=78.3&current=temperature_2m,relative_humidity_2m,wind_speed_10m
 
-Data is fetched from weather models and nearby stations. There is a minor differences (±1–2°C) from phone apps are norma
+Data is fetched from weather models and nearby stations. There is a minor differences (±1–2°C) from phone apps are normal
 
